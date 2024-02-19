@@ -1,0 +1,16 @@
+.navcontainer{
+    margin: 30px;
+}
+.navlink{
+    display: flex;
+    justify-content: space-around;
+    margin: -37px 0px 0px 387px;
+    font-size: 18px;
+}
+.container>a>link1{
+    color: #f5204b;
+}
+.fullpic{
+    height: 500;
+    width: 1000;
+}
